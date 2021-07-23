@@ -4,4 +4,6 @@
 ```
 npm install
 node app.js <options>
+npm link
+RUNNNNNNNNN
 ```
